@@ -1,6 +1,6 @@
 # Profile Hub Dossier (PHD)
 
-> Profile Hub Dossier (PHD) is a local-first, privacy-focused iOS and Android app for tracking personal records through custom profiles — including Beauty/Cosmetic, MoneyFlow, and Education. No account required, no camera/mic/location access, no AI training on user data. $29.99/year with a 14-day free trial.
+> Profile Hub Dossier (PHD) is a 'living' digital management system that grows with your needs. Effortlessly track and organize your records through dedicated MoneyFlow, Beauty, and Education profiles, all built on a privacy-focused architecture that keeps your data secure on your device. Your subscription gives you seamless access to every new profile and feature at no extra cost, ensuring your life is always perfectly organized and managed.
 
 ## Pages
 
